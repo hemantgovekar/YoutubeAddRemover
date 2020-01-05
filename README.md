@@ -1,2 +1,2 @@
 # YoutubeAddRemover
-This chrome extension will remove add in Youtube 
+This code is to remove add from youtube 
