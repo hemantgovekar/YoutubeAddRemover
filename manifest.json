@@ -1,0 +1,12 @@
+{
+    "name": "Youtube Ads closed",
+    "version": "1.0",
+    "description": "Skip and close ads in youtube",
+    "content_scripts": [
+      {
+        "matches": ["https://*.youtube.com/*"],
+        "js": ["index.js"]
+      }
+    ],   
+    "manifest_version": 2
+  }
