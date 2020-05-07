@@ -1,2 +1,2 @@
 # YoutubeAddRemover
-This code is to remove add from youtube 
+This code is to remove ads from youtube 
